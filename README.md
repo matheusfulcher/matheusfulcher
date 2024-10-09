@@ -1,10 +1,10 @@
 # <b>Greetings, I'm Matheus!<b>👋🏻
 
-    🌎 Caxias do Sul/RS - Brazil
+🌎 Caxias do Sul/RS - Brazil
 
-    🧑‍🎓 Software Engineering Student!
+🧑‍🎓 Software Engineering Student!
 
-    💡 Aspiring Fullstack Developer!
+💡 Aspiring Fullstack Developer!
     
 # 💻 Main Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
