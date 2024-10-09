@@ -1,6 +1,10 @@
 # Bonjour!👋
 My name is Matheus!
 
+• Software Engineering student from Brazil!
+• Fullstack Wannabe!
+
+
 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 # 💻 Tech Stack:
