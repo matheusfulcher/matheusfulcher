@@ -5,7 +5,7 @@ My name is Matheus!
 
 🧑‍🎓 Software Engineering Student
 
-💡 Fullstack Wannabe!
+💡 Aspiring Fullstack Developer!
 
 
 
