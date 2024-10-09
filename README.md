@@ -1,4 +1,4 @@
-# <b>Greetings, I'm Matheus!<b>👋
+# <b>Greetings, I'm Matheus!<b>👋🏻
 
     🌎 Caxias do Sul/RS - Brazil
 
