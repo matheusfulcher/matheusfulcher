@@ -2,4 +2,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react)](https://skillicons.dev) 
 
 # 🤖 Other Techs:
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,aftereffects)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,aftereffects,premiere)](https://skillicons.dev) 
