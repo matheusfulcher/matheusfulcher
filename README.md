@@ -1,16 +1,11 @@
 # Bonjour!👋
-My name is Matheus!
+My name is Matheus! 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 📍 Brazil
 
 🧑‍🎓 Software Engineering Student
 
 💡 Aspiring Fullstack Developer!
-
-
-
-
-🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
