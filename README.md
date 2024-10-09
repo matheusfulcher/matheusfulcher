@@ -1,5 +1,7 @@
 # <b>Greetings, I'm Matheus!<b>👋🏻
 
+<img src="https://github.com/user-attachments/assets/bb3a6e12-e2da-4762-b8d9-7801c1f251af" min-width="400px" max-width="400px" width="200px" align="right">
+
 🌎 Caxias do Sul/RS - Brazil
 
 🧑‍🎓 Software Engineering Student!
@@ -7,7 +9,6 @@
 💡 Aspiring Fullstack Developer! 
 
 
-![OHI2](https://github.com/user-attachments/assets/bb3a6e12-e2da-4762-b8d9-7801c1f251af)
 
 
     
