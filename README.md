@@ -6,10 +6,10 @@
 
     💡 Aspiring Fullstack Developer!
     
-# 💻 Tech Stack:
+# 💻 Main Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
-# 🤖 Familiarized With:
+# 🤖 Other Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,figma,vscode,tailwind,react,git,linux,vite,photoshop,aftereffects,premiere)](https://skillicons.dev)
 
 
