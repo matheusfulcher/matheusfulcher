@@ -1,7 +1,7 @@
 # Greetings!👋
 My name is Matheus! 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
-📍 Brazil
+📍 Caxias do Sul/RS - Brazil
 
 🧑‍🎓 Software Engineering Student
 
