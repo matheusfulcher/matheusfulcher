@@ -1,11 +1,12 @@
 # Greetings, I'm Matheus!👋
- 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 🌎 Caxias do Sul/RS - Brazil
 
 🧑‍🎓 Software Engineering Student
 
 💡 Aspiring Fullstack Developer!
+
+ I speak: 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
