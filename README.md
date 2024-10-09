@@ -1,4 +1,4 @@
-<h> <b>Hello!<b><h>
+# 🔥 Hello!
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
