@@ -1,7 +1,6 @@
 # Bonjour!👋
 My name is Matheus!
 
-Languages:
 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 # 💻 Tech Stack:
