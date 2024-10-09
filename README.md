@@ -1,4 +1,4 @@
-# <b>Greetings, I'm Matheus!<b>👋🏻
+# <b>Greetings, I'm Matheus!<b>
 
 <img src="https://github.com/user-attachments/assets/bb3a6e12-e2da-4762-b8d9-7801c1f251af" min-width="400px" max-width="400px" width="200px" align="right">
 
