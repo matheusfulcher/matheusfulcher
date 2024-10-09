@@ -1,5 +1,5 @@
-# Greetings!👋
-My name is Matheus! 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
+# Greetings, I'm Matheus!👋
+ 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
 
 🌎 Caxias do Sul/RS - Brazil
 
