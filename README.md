@@ -2,7 +2,7 @@
 
     🌎 Caxias do Sul/RS - Brazil
 
-    🧑‍🎓 Software Engineering Student
+    🧑‍🎓 Software Engineering Student!
 
     💡 Aspiring Fullstack Developer!
     
