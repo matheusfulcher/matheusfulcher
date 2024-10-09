@@ -1,6 +1,6 @@
 # Greetings, I'm Matheus!👋
 
-    🌎 Caxias do Sul/RS - Brazil
+    🌎 Caxias do Sul/RS - 🇧🇷
 
     🧑‍🎓 Software Engineering Student!
 
