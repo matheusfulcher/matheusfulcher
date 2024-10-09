@@ -4,7 +4,12 @@
 
 🧑‍🎓 Software Engineering Student!
 
-💡 Aspiring Fullstack Developer!
+💡 Aspiring Fullstack Developer! 
+
+
+![OHI2](https://github.com/user-attachments/assets/bb3a6e12-e2da-4762-b8d9-7801c1f251af)
+
+
     
 # 💻 Main Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
