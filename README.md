@@ -6,4 +6,5 @@
 # 🤖 Other Techs:
 [![My Skills](https://skillicons.dev/icons?i=github,figma,vscode,tailwind,react,git,linux,vite,photoshop,aftereffects,premiere)](https://skillicons.dev)
 
-# 🌐 Languages: 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
+# 🗣️ Languages:
+🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
