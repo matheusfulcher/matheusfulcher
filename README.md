@@ -1,8 +1,13 @@
 # Bonjour!👋
 My name is Matheus!
 
-• Software Engineering student from Brazil!
-• Fullstack Wannabe!
+📍 Brazil
+
+🧑‍🎓 Software Engineering Student
+
+💡 Fullstack Wannabe!
+
+
 
 
 🇧🇷N | 🏴󠁧󠁢󠁥󠁮󠁧󠁿B2 | 🇩🇪A1
