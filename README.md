@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
 # 🤖 Other Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,react,linux,photoshop,aftereffects,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,taildwind,linux,photoshop,aftereffects,premiere)](https://skillicons.dev)
 
 
 # 📩 Reach Me:
