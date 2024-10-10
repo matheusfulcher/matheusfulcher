@@ -12,10 +12,10 @@
 
     
 # 💻 Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev) 
 
 # 🤖 Other Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,taildwind,linux,photoshop,aftereffects,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,linux,photoshop,aftereffects,premiere)](https://skillicons.dev)
 
 
 # 📩 Reach Me:
