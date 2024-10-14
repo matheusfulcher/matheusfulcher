@@ -7,6 +7,7 @@
 
 💡 Aspiring Fullstack Developer! 
 
+![image](https://github.com/user-attachments/assets/2acd331a-17e4-44bc-a52d-977bebf61d57)
 
 
 
@@ -21,3 +22,5 @@
 # 📩 Reach Me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheusfulcher)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:matheusfulcher787@gmail.com)
+
+
