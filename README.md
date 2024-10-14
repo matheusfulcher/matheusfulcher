@@ -7,7 +7,7 @@
 
 💡 Aspiring Fullstack Developer! 
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF2bW5idTc4cGE1eW1jcThmNTZxOG5oN2x1eXVnMW1vMWtqaTZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.webp
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZwMjM2OXl4cWZoNWVraHh1ODR6ZWM1NWtsazNjMXF5ZXUwYm83bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.webp" alt="dark souls 2" min-width="200px" max-width="200px" width="200px" align="right">
 
 
     
