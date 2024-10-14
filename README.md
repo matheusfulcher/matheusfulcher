@@ -7,8 +7,7 @@
 
 💡 Aspiring Fullstack Developer! 
 
-<iframe src="https://giphy.com/embed/iamIahPLWmo4tGiyDz" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bandainamco-dark-souls-2-ii-iamIahPLWmo4tGiyDz">via GIPHY</a></p>
-
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF2bW5idTc4cGE1eW1jcThmNTZxOG5oN2x1eXVnMW1vMWtqaTZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.webp
 
 
     
