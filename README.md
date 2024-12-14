@@ -11,7 +11,7 @@
 
     
 # 💻 Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) 
 
 # 🤖 Other Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,tailwind,linux,photoshop,aftereffects,premiere)](https://skillicons.dev)
