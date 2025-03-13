@@ -13,8 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma,html,css,github,git,vscode,photoshop)](https://skillicons.dev)
 
 # 📩 Let's Connect:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheusfulcher)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:matheusfulcher787@gmail.com)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/matheusfulcher/)
+[<img alt="Maile" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=mail&logoColor=black"/>](mailto:matheusfulcher787@gmail.com)
 
 # 📊 Stats
 
