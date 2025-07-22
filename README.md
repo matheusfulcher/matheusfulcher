@@ -4,7 +4,7 @@
 
 💼 Front-End Developer & UI/UX Designer
 
-🎓 Software Engineering Student!
+🎓 Computer Science Student!
 
 # 💻 Main Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev) 
