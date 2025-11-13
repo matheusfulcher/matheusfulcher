@@ -7,10 +7,10 @@
 🎓 Computer Science Student!
 
 # 💻 Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
 
 # 🤖 Other Tools:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma,html,css,github,git,vscode,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,figma,html,css,github,git,vscode,photoshop)](https://skillicons.dev)
 
 # 📩 Let's Connect:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/matheusfulcher/)
