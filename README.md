@@ -1,8 +1,10 @@
-# 👋 Hello! I'm Matt!
+# 👋Welcome! I'm Matt!
 
-🌎 Based in Caxias do Sul/RS - Brazil  
-💼 Front-End Developer & UI/UX Designer  
+💼 Front-End Developer 
+
 🎓 Computer Science Student  
+
+🌎 Based in Brazil  
 
 ---
 
