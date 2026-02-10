@@ -1,4 +1,4 @@
-# 🍃 Matheus Fulcher
+# 🍁 Matheus Fulcher
 
 **`Front-End Developer and Computer Science student based in Brazil`**
 
