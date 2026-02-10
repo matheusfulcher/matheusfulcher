@@ -1,10 +1,8 @@
-# 👋Welcome! I'm Matt!
+# 🍃 Matheus Fulcher
 
-💼 Front-End Developer 
+**`Front-End Developer`**
 
-🎓 Computer Science Student  
-
-🌎 Based in Brazil  
+I'm a Front-End Developer and Computer Science student based in Brazil
 
 ---
 
