@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwindreact&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,visualstudio,vscode,mysql,azure,github,git,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,visualstudio,vscode,mysql,azure,github,git,figma&theme=light)](https://skillicons.dev)
 
 </div>
 
