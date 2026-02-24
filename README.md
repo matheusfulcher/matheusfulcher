@@ -1,6 +1,6 @@
 # 🍁 Matheus Fulcher
 
-**`Front-End Developer and Computer Science student based in Brazil`**
+**`Front-End Developer based in Brazil`**
 
 ---
 
